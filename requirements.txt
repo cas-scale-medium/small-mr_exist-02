@@ -19,3 +19,4 @@ fastapi==0.70.1
 uvicorn==0.16.0
 # touch-small-9uHP
 # touch-small-GfJ3
+# touch-small-N6m0
